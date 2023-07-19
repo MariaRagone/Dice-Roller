@@ -1,0 +1,15 @@
+C:\Users\maria\source\repos\Lab 007 DICE ROLLER\Lab 007 DICE ROLLER\bin\Debug\net6.0\Lab 007 DICE ROLLER.exe
+C:\Users\maria\source\repos\Lab 007 DICE ROLLER\Lab 007 DICE ROLLER\bin\Debug\net6.0\Lab 007 DICE ROLLER.deps.json
+C:\Users\maria\source\repos\Lab 007 DICE ROLLER\Lab 007 DICE ROLLER\bin\Debug\net6.0\Lab 007 DICE ROLLER.runtimeconfig.json
+C:\Users\maria\source\repos\Lab 007 DICE ROLLER\Lab 007 DICE ROLLER\bin\Debug\net6.0\Lab 007 DICE ROLLER.dll
+C:\Users\maria\source\repos\Lab 007 DICE ROLLER\Lab 007 DICE ROLLER\bin\Debug\net6.0\Lab 007 DICE ROLLER.pdb
+C:\Users\maria\source\repos\Lab 007 DICE ROLLER\Lab 007 DICE ROLLER\obj\Debug\net6.0\Lab 007 DICE ROLLER.csproj.AssemblyReference.cache
+C:\Users\maria\source\repos\Lab 007 DICE ROLLER\Lab 007 DICE ROLLER\obj\Debug\net6.0\Lab 007 DICE ROLLER.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\source\repos\Lab 007 DICE ROLLER\Lab 007 DICE ROLLER\obj\Debug\net6.0\Lab 007 DICE ROLLER.AssemblyInfoInputs.cache
+C:\Users\maria\source\repos\Lab 007 DICE ROLLER\Lab 007 DICE ROLLER\obj\Debug\net6.0\Lab 007 DICE ROLLER.AssemblyInfo.cs
+C:\Users\maria\source\repos\Lab 007 DICE ROLLER\Lab 007 DICE ROLLER\obj\Debug\net6.0\Lab 007 DICE ROLLER.csproj.CoreCompileInputs.cache
+C:\Users\maria\source\repos\Lab 007 DICE ROLLER\Lab 007 DICE ROLLER\obj\Debug\net6.0\Lab 007 DICE ROLLER.dll
+C:\Users\maria\source\repos\Lab 007 DICE ROLLER\Lab 007 DICE ROLLER\obj\Debug\net6.0\refint\Lab 007 DICE ROLLER.dll
+C:\Users\maria\source\repos\Lab 007 DICE ROLLER\Lab 007 DICE ROLLER\obj\Debug\net6.0\Lab 007 DICE ROLLER.pdb
+C:\Users\maria\source\repos\Lab 007 DICE ROLLER\Lab 007 DICE ROLLER\obj\Debug\net6.0\Lab 007 DICE ROLLER.genruntimeconfig.cache
+C:\Users\maria\source\repos\Lab 007 DICE ROLLER\Lab 007 DICE ROLLER\obj\Debug\net6.0\ref\Lab 007 DICE ROLLER.dll
